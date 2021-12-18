@@ -1,0 +1,10 @@
+HI Rob
+For me:
+Histogram on volts, wire size, wire speed, travel speed, all the "usual" weld parameters
+
+Plot of arc times per part, welds per part, % arc time
+
+
+Plot of volts vs wire size and volts vs gas
+
+That should be a start
